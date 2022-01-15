@@ -26,7 +26,7 @@ Now you just need follow this photos/icons idk how it calls
 ![Bez dsdstytułu](https://user-images.githubusercontent.com/77973702/149636308-c9a8c388-8a61-4aae-8bc7-55ff14ce675a.png)
 
 # Step 4.
-Drag file called: `Yomer.theme.css` from Downloads folder ![image](https://user-images.githubusercontent.com/77973702/149636380-0ed7b7f5-ac57-4851-8098-70a72b0d1c1e.png) to folder called: `themes`(this folder will show you when you click on this header: ![image](https://user-images.githubusercontent.com/77973702/149636444-b830ccae-c03d-47bb-89f7-30c556a9d4af.png)
+Drag file called: `Yomer.theme.css` from Downloads folder ![image](https://user-images.githubusercontent.com/77973702/149636380-0ed7b7f5-ac57-4851-8098-70a72b0d1c1e.png) into folder called: `themes`(this folder will show you when you click on this header: ![image](https://user-images.githubusercontent.com/77973702/149636444-b830ccae-c03d-47bb-89f7-30c556a9d4af.png)
 )
 
 # Step 5 ( FINISH )
