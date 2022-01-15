@@ -35,5 +35,7 @@ If you did everything correctly according to the instructions above, you should 
 If you have it, just turn it on and be glad that you can read, and if you do not have it only you have such an error ![image](https://user-images.githubusercontent.com/77973702/149636895-5f3b4ca4-07b0-4ebf-89e5-61f3294334b6.png)
  you have to try again to read this time carefully the instructions.
  
- ## Thanks for supporting. If you have any idea about next themes, send Feedback on mail
- snierdolxd@gmail.com
+ ## Thanks for supporting. If you have any idea about next themes, send Feedback on mail or discord
+snierdolxd@gmail.com
+ 
+ @Yoma#2886
