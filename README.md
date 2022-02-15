@@ -1,13 +1,14 @@
 # Hi
 This is my theme based on Clearvision and Tranquill!
 
-If you're interested at downloading this theme. This is small instruction how to download Better Discord and how to apply my theme!
+If you're interested at downloading this theme. Use the auto-installer or apply it manually. This is instruction how to download Better Discord and how to apply my theme manually!
 
 
 # First you need Better Discord. 
 (If you arleady have BetterDiscord skip this part)
 
 Here is link for instruction how to download it: https://www.youtube.com/watch?v=CP84aObEi9A
+(video is not mine because im too lazy to record it)
 
 
 # Step 2.
