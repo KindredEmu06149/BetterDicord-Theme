@@ -1,5 +1,7 @@
 # Hi
 This is my theme based on Clearvision and Tranquill!
+USE THIS THEME ONLY ON YOUR OWN!
+THE THEME WORKS CORRECTLY ONLY IN DARK MODE!!
 
 If you're interested at downloading this theme. Use the auto-installer or apply it manually. This is instruction how to download Better Discord and how to apply my theme manually!
 
